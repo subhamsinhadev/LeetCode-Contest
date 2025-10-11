@@ -2,21 +2,7 @@
 
 This repository contains Java solutions for LeetCode Weekly and Biweekly Contests. Each folder corresponds to a specific contest, containing well-structured and efficient solutions.
 
-## Structure
 
-```
-LeetCode-Contest/
-│
-├── weekly-contest-470/
-│   ├── Equal_Score_Substrings.java
-│   ├── Longest_Fibonacci_Subarray.java
-│
-├── biweekly-contest-167/
-│   ├── Equal_Score_Substrings.java
-│   ├── Longest_Fibonacci_Subarray.java
-│
-└── README.md
-```
 
 ## Problems
 
