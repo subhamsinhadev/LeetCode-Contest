@@ -25,3 +25,16 @@ public class Equal_Score_Substrings {
        System.out.println(b);
     }
 }
+
+
+ public static boolean checkBalance(int[] freq){
+        int min=Integer.MAX_VALUE;
+            int max=Integer.MIN_VALUE;
+        for(int n:freq){
+            if(n>0){
+                min=Math.min(min,n);
+                max=Math.max(max,n);
+            }
+        }
+        return min==max;
+    }
