@@ -13,7 +13,10 @@ Concepts: Prefix sums, character arithmetic.
 **Longest Fibonacci Subarray**  
 Finds the longest contiguous subarray following the Fibonacci-like condition `arr[i] = arr[i-1] + arr[i-2]`.  
 Concepts: Sliding window, sequence pattern detection.
-
+## Contest Done Till Now
+1.Biweekly Contest 167
+2.Weekly Contest 471
+3.weekly-contest-470
 ## Tech Stack
 - Language: Java  
 - Platform: LeetCode  
